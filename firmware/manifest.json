@@ -9,7 +9,7 @@
       "path": "bootloader.bin",
       "offset": 0,
       "size": 21632,
-      "sha256": "575af0d9d59f3eaa587e2fa98213b86dd88b7db82c5b682665a922827b0ef065"
+      "sha256": "bc6f20abfbaa585da529b64a4a4b72fd3ceb9bb18623d960bb5b15749931bf9d"
     },
     {
       "path": "partitions.bin",
@@ -21,7 +21,7 @@
       "path": "mango.bin",
       "offset": 65536,
       "size": 1394336,
-      "sha256": "c8e07062e901cb616c191362b7f25eb4e85e223ed8a8a810b7bd33a1511bfe7a"
+      "sha256": "a6170c398d2c12cd38b66dd1496d2a01a2379255160584106f83de8b389e9683"
     },
     {
       "path": "mango-assets.bin",
