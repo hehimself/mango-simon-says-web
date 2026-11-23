@@ -20,8 +20,8 @@
     {
       "path": "mango.bin",
       "offset": 65536,
-      "size": 1394128,
-      "sha256": "8a25927be450347be105305c229c2bea3c7eab39e66e29ddd13312a4be5a490e"
+      "size": 1394336,
+      "sha256": "c8e07062e901cb616c191362b7f25eb4e85e223ed8a8a810b7bd33a1511bfe7a"
     },
     {
       "path": "mango-assets.bin",
