@@ -2,7 +2,11 @@
 
 Public website and key-free firmware only. The firmware source is maintained in a separate private repository.
 
+<img src="media/mango-demo.gif" alt="Mango plays Simon Says" width="300">
+
 **Install and try the demo:** https://hehimself.github.io/mango-simon-says-web/
+
+Streaming 20 ms audio packets, early Deepgram transcripts, warm Jev connections, and local animation playback keep the game responsive. The five-command development replay measured **559 ms median** from speech end to the first clip frame (**628 ms worst**), with **42 ms median** after an accepted decision. This small sample is not a production latency guarantee.
 
 Supported hardware: Waveshare ESP32-S3 Touch AMOLED 1.75C, 32 MB flash / 8 MB PSRAM. Use desktop Chrome or Edge with a USB data cable. Bring your own Deepgram and OpenRouter keys; the page sends them directly to your device over USB, never to a server or GitHub. Provider usage is charged to your accounts.
 
